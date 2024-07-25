@@ -1,0 +1,10 @@
+M0001|Foo Tun Wei|1234|4321|Male|050302140961|01113155979|what is ur favourite car brand|honda
+M0002|Fong Xin Rong|1234|4321|Male|050302140962|01913155977|What u like to eat|cake
+M0003|Teh Xi Yuan|1234|4321|Male|050302140963|01123155976|What u like to eat|cake
+M0004|Chia Teng Hui|1234|4321|Male|050302140964|01313155978|What u like to eat|cake
+M0005|Khoo Kah Qin|1234|4321|Male|051205105432|0123456789|What u like to eat|cake
+M0006|Heng Wei Yi|1234|4321|Male|050331109876|0124357896|What u like to eat|cake
+M0007|Tan Yong Li|1234|4321|Male|050607103241|0132457869|What ur school|TARUMT
+M0696|Foo Jun Hin|1234|4321|Male|050406101234|0125439876|what is ur car|mercedes
+M2125|Beh Wen Han|1234|4321|Male|050402134567|0124356798|what ur school|tarumt
+M3456|Daren Tan|1234|4321|Male|050301123456|0198763452|what ur school|tarumt

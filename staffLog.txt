@@ -1,0 +1,24 @@
+ST0001 added a new staff, ST0002|09-05-2024 22:07
+ST0001 added a new staff, ST0003|09-05-2024 22:07
+ST0001 added a new staff, ST0004|09-05-2024 22:07
+ST0001 added a new staff, ST0005|09-05-2024 22:07
+ST0001 added a new staff, ST0006|09-05-2024 22:07
+ST0001 added a new staff, ST0007|09-05-2024 22:07
+ST0001 added a new staff, ST0008|09-05-2024 22:07
+ST0001 added a new staff, ST0009|09-05-2024 22:07
+ST0001 added a new staff, ST0010|09-05-2024 22:07
+ST0001 updated his Information|09-05-2024 22:10
+ST0001 updated his Information|09-05-2024 22:11
+ST0001 deleted ST0002 account|09-05-2024 22:11
+ST0001 modified "M6988" account|09-05-2024 22:35
+ST0001 deleted "M6988" account|09-05-2024 22:35
+ST0003 deleted ST0005 account|09-05-2024 22:36
+ST0003 edited Train ID to "2044"|09-05-2024 22:37
+ST0003 reset schedule for Train ID "2044"|09-05-2024 22:39
+ST0003 added new Train ID "2055"|09-05-2024 22:40
+ST0003 deleted Ticket ID "202405025905|09-05-2024 22:40
+ST0003 reset schedule for Train ID "2049"|09-05-2024 22:50
+ST0003 reset schedule for Train ID "2044"|09-05-2024 22:50
+ST0003 edited station name to "Batu Caves"|09-05-2024 22:50
+ST0003 updated Ticket ID "202405085576" status to Valid|09-05-2024 23:01
+ST0003 edited all Ticket status for Train ID "2011" to "Invalid" for 05/11|09-05-2024 23:03
